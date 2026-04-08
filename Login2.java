@@ -1,4 +1,4 @@
-public class Login {
+public class Login2 {
     public void userName(){
         System.out.println("enter user name");
     }
